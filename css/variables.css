@@ -1,0 +1,22 @@
+:root {
+  /* Paleta */
+  --ink: #0b0b0f;            /* negro profundo */
+  --coal: #121218;           /* gris-negruzco base */
+  --violet: #a48aff;         /* violeta claro */
+  --violet-strong: #7b61ff;  /* violeta acentuado */
+  --red: #e63946;            /* rojo acento */
+  --muted: #9aa0a6;          /* texto secundario */
+  --white: #f4f6fb;
+
+  /* UI */
+  --radius: 16px;
+  --gap: 14px;
+  --pad: 18px;
+  --shadow: 0 10px 30px rgba(0,0,0,.55), inset 0 0 0 1px rgba(255,255,255,.03);
+
+  /* Tipografía */
+  --font: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
+  /* Efectos */
+  --glow: 0 0 20px rgba(164,138,255,.35), 0 0 60px rgba(230,57,70,.2);
+}

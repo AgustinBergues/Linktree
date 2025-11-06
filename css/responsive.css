@@ -1,0 +1,13 @@
+/* Mobile primero: ya es mobile-friendly.
+   Ajustes para pantallas mayores */
+@media (min-width: 520px) {
+  .links { gap: 16px; }
+  .social { gap: 16px; }
+  .copy { padding: 12px 16px; }
+}
+
+@media (min-width: 820px) {
+  .card { padding: 32px; }
+  .avatar { width: 84px; height: 84px; }
+  .title { font-size: 32px; }
+}
